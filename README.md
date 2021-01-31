@@ -1,4 +1,7 @@
 # auto_repeater Server 
+
+<center><img src="https://cdncontribute.geeksforgeeks.org/wp-content/uploads/Socket-Programming-in-C-C-.jpg"></center>
+
 - Based in C Language with Thread usage to include some _Parallel instructions_  [!]
 - Author : `Omar Benabdejlil`
 > Compile the server with : 
